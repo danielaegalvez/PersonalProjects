@@ -30,8 +30,6 @@ public class TicTacToeController {
             int colIndex = (c == null) ? 0 : c;
 
             if (rowIndex == row && colIndex == col && node instanceof Button){
-                String text = ((Button) node).getText();
-                System.out.println(text);
                 return ((Button) node).getText();
             }
         }
