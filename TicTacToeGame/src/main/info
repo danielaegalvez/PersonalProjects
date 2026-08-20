@@ -1,5 +1,5 @@
 NOTE: THIS IS NOT COMPLETE I STILL NEED TO ADD MANY DIFFERENT ELEMENTS.  FEEL FREE TO GIVE ME POINTERS ON MY CODE!!!!!
 
 
-This project is also built on a MacOS and i used a built in mvn suite in my intellij to run it. the command for that on MAC is ./mvnw clean javafx:run;
+i used a built in mvn suite in my intellij to run it. the command for that is ./mvnw clean javafx:run;
 
